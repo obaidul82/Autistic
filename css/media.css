@@ -1,0 +1,152 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+.banner {
+    padding-top: 30px;
+    padding-bottom: 60px;
+}
+.custom_menu ul li a {
+    text-align: center;
+}
+.banner_text p {
+    font-size: 25px;
+}
+.banner_form input {
+    height: 40px;
+}
+.banner_form button {
+    top: 37px;
+}
+.houses1 img {
+    width: 50%;
+}
+.custom_houses h5 {
+    font-size: 12px;
+}
+.custom_houses p {
+    font-size: 12px;
+}
+.custom_card {
+    width: 100% !important;
+    padding-bottom: 20px;
+}
+.houses_extra h5{
+    font-size: 12px;
+}
+.blog_extra h5{
+    font-size: 12px;
+}
+.contact_extra h1 {
+    margin-left: 25%;
+    width: 50%;
+}
+.menu {
+    text-align: center;
+    padding-top: 15px;
+}
+.contacts {
+    text-align: center;
+}
+.custom_media {
+    padding-right: 34%;
+}
+.company_name h5 {
+    margin-bottom: -14px;
+    padding-bottom: 0;
+}
+
+}
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) {
+
+.custom_houses h5 {
+    font-size: 14px;
+}
+.custom_houses p {
+    font-size: 14px;
+}
+.houses1 img {
+    width: 50%;
+}
+
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) {
+
+
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) {
+
+.banner_text p {
+    font-size: 48px;
+}
+.overlay {
+    height: 89%;
+}
+.custom_houses h5 {
+    font-size: 18px !important;
+}
+.custom_houses p {
+    font-size: 18px !important;
+}
+.houses1 img {
+    width: 40% !important;
+}
+.custom_card {
+    width: 100% !important;
+}
+.blog1_body h5 {
+    font-size: 18px;
+}
+.blog1_body p {
+    font-size: 18px;
+}
+.contact_title h5{
+    font-size: 36px;
+}
+.contact_form input {
+    font-size: 16px;
+}
+.form_text {
+    font-size: 16px;
+}
+.menu h5{
+    font-size: 18px;
+    color: #7b7b83;
+}
+.menu ul li a{
+    font-size: 16px;
+}
+.contacts h5{
+    font-size: 16px;
+}
+.contacts ul li{
+    font-size: 14px;
+}
+.custom_u i {
+    margin-left: 3%;
+}
+.company_name h5{
+    font-size: 14px;
+}
+.web h5{
+    font-size: 14px;
+}
+
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+.logo {
+    font-size: 30px;
+}
+.custom_menu ul li a {
+    font-size: 20px;
+}
+
+
+}
