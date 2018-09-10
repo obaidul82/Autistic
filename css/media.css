@@ -29,11 +29,32 @@
     width: 100% !important;
     padding-bottom: 20px;
 }
+.gallery {
+    padding-bottom: 30px;
+}
+.houses_title h1 {
+    font-size: 24px;
+    padding-bottom: 0px !important;
+}
+.houses {
+    padding-bottom: 10px;
+}
+.houses_title h5 {
+    margin-bottom: -10px;
+}
 .houses_extra h5{
     font-size: 12px;
+    margin: 40px auto;
+}
+.blog_title {
+    padding-bottom: 30px;
+}
+.blog_title h1 {
+    font-size: 24px;
 }
 .blog_extra h5{
     font-size: 12px;
+    margin: -11px auto 60px;
 }
 .contact_extra h1 {
     margin-left: 25%;
@@ -43,8 +64,14 @@
     text-align: center;
     padding-top: 15px;
 }
-.contacts {
+.contact {
     text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.contact_title h5 {
+    padding-bottom: 25px;
 }
 .custom_media {
     padding-right: 34%;
@@ -52,6 +79,16 @@
 .company_name h5 {
     margin-bottom: -14px;
     padding-bottom: 0;
+}
+.contacts {
+    text-align: center;
+}
+.footer {
+    padding-top: 40px;
+    padding-bottom: 0px;
+}
+.footer_bottom {
+    padding-bottom: 40px;
 }
 
 }
